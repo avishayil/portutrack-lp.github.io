@@ -1,0 +1,30 @@
+{
+  "hero": {
+    "subtitle": "Serviços de rastreamento de processos de nacionalidade",
+    "paragraph": "PortugalTracker rastreia os seus processos de nacionalidade e envia atualizações por email automaticamente quando o estado das suas candidaturas é atualizado ou encaminhado para outro conservatório",
+    "button": "Iniciar"
+  },
+  "header": {
+    "title": "Fluxo de trabalho que simplesmente funciona",
+    "paragraph": "Criamos um método de rastreamento preciso e bem-sucedido, que chamamos de 'O Fluxo de Trabalho PortugalTracker'"
+  },
+  "features": {
+    "small_title": "O Fluxo de Trabalho PortugalTracker",
+    "feature_1": {
+      "title": "Totalmente Automático",
+      "paragraph": "Já não precisa de visitar frequentemente o site de acompanhamento de nacionalidade para verificar o estado do seu processo, o sistema PortugalTracker fará isso por si e enviar-lhe-á um email assim que alguma coisa no seu processo mudar"
+    },
+    "feature_2": {
+      "title": "Atualizações de status",
+      "paragraph": "PortugalTracker irá enviar um email para o seu endereço de email assim que o estado de um dos ficheiros do seu portfólio mudar"
+    },
+    "feature_3": {
+      "title": "Atualizações de roteamento",
+      "paragraph": "Quando um dos ficheiros for encaminhado para outro conservatório antes da fase final de registo, receberá um alerta do PortugalTracker sobre o evento de encaminhamento do ficheiro para o conservatório designado"
+    },
+    "feature_4": {
+      "title": "Gerenciar vários processos",
+      "paragraph": "Pode gerir vários processos através do sistema PortugalTracker. Quer sejam seus clientes, familiares ou amigos, você receberá todos os alertas em um só lugar e verá o status em nosso painel unificado"
+    }
+  }
+}

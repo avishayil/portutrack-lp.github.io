@@ -1,0 +1,30 @@
+{
+  "hero": {
+    "subtitle": "שירות מעקב אזרחות פורטוגלית",
+    "paragraph": "PortugalTracker עוקבת אחרי תיקי האזרחות הפורטוגלית שלכם ושולחת עדכונים למייל אוטומטית כאשר סטטוס התיק שלכם מתעדכן",
+    "button": "אני רוצה להתחיל"
+  },
+  "header": {
+    "title": "תהליך פשוט שעובד",
+    "paragraph": "הגענו לשיטת מעקב מוצלחת ומדויקת, אנו קוראים לה 'המעקב של PortugalTracker'"
+  },
+  "features": {
+    "small_title": "המעקב של PortugalTracker",
+    "feature_1": {
+      "title": "אוטומטי לחלוטין",
+      "paragraph": "אין עוד צורך לבקר באתר המעקב הפרורטוגלי לעיתים קרובות כדי לבדוק את מצב התהליך שלך, מערכת PortugalTracker תעשה זאת עבורך ותשלח לך הודעה לדואר האלקטרוני ברגע שמשהו בתיק ישתנה."
+    },
+    "feature_2": {
+      "title": "Status Updates",
+      "paragraph": "PortugalTracker will send an email to your email address as soon as the status of one of the files at your portfolio changes"
+    },
+    "feature_3": {
+      "title": "Routing Updates",
+      "paragraph": "When on of the files is being routed to another conservatoria before the final registration phase, you will receive an alert from PortugalTracker about the route event of the file to the designated conservatoria"
+    },
+    "feature_4": {
+      "title": "Manage Multiple Proccesses",
+      "paragraph": "You can manage a number of proccesses through the PortugalTracker system. Whether if it's your clients, your family members or your friends, you'll get all the alerts in one place and you'll see the status at our unified dashboard"
+    }
+  }
+}
