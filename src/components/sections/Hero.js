@@ -24,9 +24,23 @@ const Hero = ({
   hasBgColor,
   invertColor,
   ...props
-}) => { 
+}) => {
 
   const { t } = useTranslation();
+
+  const changeDir = (direction) => {
+    let splitItemContent = document.getElementsByClassName('split-item-content');
+    let i;
+    for(i = 0; i < splitItemContent.length; i++) {
+      splitItemContent[i].style.textAlign = direction;
+    }
+  }
+
+  if (i18n.dir() == 'rtl') {
+    changeDir('right')
+  } else {
+    changeDir('left')
+  }
 
   const outerClasses = classNames(
     'hero section center-content',
@@ -54,15 +68,15 @@ const Hero = ({
             <div className="mt-0 mb-16 reveal-from-bottom" data-reveal-delay="200" style={{ display: 'flex', justifyContent: 'space-around', marginBottom: 64 }}>
               <a className="button" href="#" onClick={() =>{
                 i18n.changeLanguage('en')
-                document.documentElement.dir = i18n.dir()                
+                changeDir('left')
               }}>English</a>
-              {/* <span onClick={() =>{
+              <a className="button" href="#" onClick={() =>{
                 i18n.changeLanguage('he')
-                document.documentElement.dir = i18n.dir()                
-              }}>עברית</span> */}
+                changeDir('right')
+              }}>עברית</a>
               <a className="button" href="#" onClick={() =>{
                 i18n.changeLanguage('pt-BR')
-                document.documentElement.dir = i18n.dir()                
+                changeDir('left')
               }}>Português</a>
             </div>
             <h1 className="mt-0 mb-16 reveal-from-bottom" data-reveal-delay="200">

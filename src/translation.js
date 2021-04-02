@@ -3,7 +3,7 @@ import LanguageDetector from "i18next-browser-languagedetector"
 import { initReactI18next } from 'react-i18next'
 
 import translationEn from "./locales/en/translation.json";
-// import translationHe from "./locales/he/translation.json";
+import translationHe from "./locales/he/translation.json";
 import translationPtBr from "./locales/pt-BR/translation.json";
 
 i18n
@@ -19,9 +19,9 @@ i18n
           en: {
             translations: translationEn,
           },
-          // he: {
-          //   translations: translationHe,
-          // },
+          he: {
+            translations: translationHe,
+          },
           'pt-BR': {
             translations: translationPtBr,
           },

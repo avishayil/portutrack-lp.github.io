@@ -15,16 +15,16 @@
       "paragraph": "אין עוד צורך לבקר באתר המעקב הפרורטוגלי לעיתים קרובות כדי לבדוק את מצב התהליך שלך, מערכת PortugalTracker תעשה זאת עבורך ותשלח לך הודעה לדואר האלקטרוני ברגע שמשהו בתיק ישתנה."
     },
     "feature_2": {
-      "title": "Status Updates",
-      "paragraph": "PortugalTracker will send an email to your email address as soon as the status of one of the files at your portfolio changes"
+      "title": "עדכוני סטטוס",
+      "paragraph": "PortugalTracker תשלח התראה לכתובת הדואר האלקטרוני שלך, ברגע שהסטטוס של אחד התהליכים בחשבון ישתנה. בין אם מדובר בריג׳קט שדורש השלמת מסמכים, מעבר מסטטוס אחד לשני או ב-7 ירוק המיוחל, אנחנו נהיה שם כדי לעדכן אתכם באופן מיידי"
     },
     "feature_3": {
-      "title": "Routing Updates",
-      "paragraph": "When on of the files is being routed to another conservatoria before the final registration phase, you will receive an alert from PortugalTracker about the route event of the file to the designated conservatoria"
+      "title": "עדכון על ניתובים",
+      "paragraph": "גם בעת ניתוב התיק מהקונסרבטוריות המרכזיות לתחנות הפזורות בכפרים, באין אם בתחילת התהליך או לפני שלב הרישום הסופי, תקבלו התראה ממערכת PortugalTracker על מעבר התיק לתחנה המיועדת"
     },
     "feature_4": {
-      "title": "Manage Multiple Proccesses",
-      "paragraph": "You can manage a number of proccesses through the PortugalTracker system. Whether if it's your clients, your family members or your friends, you'll get all the alerts in one place and you'll see the status at our unified dashboard"
+      "title": "ניהול כמות של תיקים במקום אחד",
+      "paragraph": "ניתן לנהל מספר תהליכים באמצעות מערכת PortugalTracker. בין אם מדובר בלקוחות שלך, בני המשפחה שלך או החברים שלך, תקבל את כל ההתראות במקום אחד ותראה את הסטטוס בדשבורד המאוחד שלנו"
     }
   }
 }

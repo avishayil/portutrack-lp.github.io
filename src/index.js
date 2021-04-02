@@ -12,7 +12,6 @@ import * as serviceWorker from './serviceWorker';
 import './assets/scss/style.scss';
 
 const history = createBrowserHistory();
-document.documentElement.dir = i18n.dir()
 
 ReactDOM.render(
   <Router history={history}>
