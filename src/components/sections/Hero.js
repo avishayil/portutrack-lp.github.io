@@ -33,6 +33,7 @@ const Hero = ({
     let i;
     for(i = 0; i < splitItemContent.length; i++) {
       splitItemContent[i].style.textAlign = direction;
+      splitItemContent[i].style.direction = i18n.dir();
     }
   }
 
